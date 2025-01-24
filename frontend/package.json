@@ -28,7 +28,8 @@
     "react-monaco-editor": "^0.56.2",
     "react-redux": "^9.2.0",
     "react-timer-hook": "^3.0.8",
-    "reselect": "^5.1.1"
+    "reselect": "^5.1.1",
+    "serve": "^14.2.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
@@ -44,7 +45,8 @@
     "postcss": "^8.5.1",
     "tailwindcss": "^3.4.17",
     "vite": "^6.0.5"
-  },"optionalDependencies": {
+  },
+  "optionalDependencies": {
     "@rollup/rollup-linux-x64-gnu": "*"
   }
 }
